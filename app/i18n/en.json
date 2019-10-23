@@ -1,0 +1,28 @@
+{
+	"sidebar": {
+		"questions": "Questions",
+		"test": "Test"
+	},
+	"modal": {
+		"cta_create": "Create",
+		"cta_cancel": "Cancel",
+		"cta_delete": "Remove"
+	},
+	"admin": {
+		"new_test": "New test",
+		"title": "You can to create a new test",
+		"success": "success",
+		"error": "error",
+		"hint": "hint",
+		"text": "text",
+		"option": "option {number}"
+	},
+	"test": {
+		"title": "You can to pass a test",
+		"should_create_test": "You should create a new test",
+		"cta_submit": "Submit"
+	},
+	"footer": {
+		"developer": "Developer: Serhii Riabokon"
+	}
+}
