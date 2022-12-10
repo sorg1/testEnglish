@@ -31,7 +31,7 @@
     "@nestjs/common": "6.0.4",
     "@nestjs/core": "6.0.4",
     "@nestjs/microservices": "6.0.4",
-    "@nestjs/platform-express": "6.0.4",
+    "@nestjs/platform-express": "9.2.1",
     "@nestjs/serve-static": "1.0.1",
     "@nestjs/websockets": "6.0.4",
     "@sentry/browser": "5.6.3",
